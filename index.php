@@ -3,6 +3,7 @@
 $text = "This is a sample application. Version1";
 
 echo $text;
-echo "\nOur Boss is Hirohashi";
+echo '<br>';
+echo "Our Boss is Hirohashi";
 
 ?>
